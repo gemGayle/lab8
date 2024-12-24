@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab8","l":"CartesianProductBuilder"},{"p":"lab8","l":"Main"},{"p":"lab8","l":"RelationTable"}];updateSearchResults();
